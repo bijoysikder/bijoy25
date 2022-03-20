@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    background-color: blue;
+    padding: 1rem;
+}
+ a.link {
+    text-decoration: none;
+    margin-left: 3rem;
+    font-size: 2rem;
+    color: white;
+    font-family: serif;
+    line-height: 24px;
+    border: 1px solid;
+    padding: 1rem;
+}
+body{
+    background-color: gray;
+}
